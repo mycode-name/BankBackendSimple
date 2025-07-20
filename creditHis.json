@@ -1,0 +1,22 @@
+{
+    "dangerLog": {
+        "credit_balance": 1000,
+        "credit_paid": 500,
+        "credit_rolling": 200
+    },
+    "dangerPeople": {
+        "credit_balance": 1000,
+        "credit_paid": 500,
+        "credit_rolling": 200
+    },
+    "dangerCrowd": {
+        "credit_balance": 1000,
+        "credit_paid": 500,
+        "credit_rolling": 200
+    },
+    "dangerDost": {
+        "credit_balance": 1000,
+        "credit_paid": 500,
+        "credit_rolling": 200
+    }
+}

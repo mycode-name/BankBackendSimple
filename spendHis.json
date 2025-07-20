@@ -1,0 +1,130 @@
+{
+    "dangerLog": {
+        "jan": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "feb": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "mar": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "apr": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "may": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "jun": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        }
+    },
+    "dangerPeople": {
+        "jan": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "feb": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "mar": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "apr": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "may": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "jun": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        }
+    },
+    "dangerCrowd": {
+        "jan": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "feb": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "mar": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "apr": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "may": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "jun": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        }
+    },
+    "dangerDost": {
+        "jan": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "feb": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "mar": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "apr": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "may": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        },
+        "jun": {
+            "total_spend": 1000,
+            "liability": 500,
+            "asset": 200
+        }
+    }
+}
